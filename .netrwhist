@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/permaban/.config/nvim'
+let g:netrw_dirhist_2='/home/permaban/.config/nvim/after'
+let g:netrw_dirhist_1='/home/permaban/.config/nvim'
+let g:netrw_dirhist_0='/home/permaban/.config/nvim/lua'
+let g:netrw_dirhist_9='/home/permaban/.config/nvim/lua/nigger'
+let g:netrw_dirhist_8='/home/permaban/.config/nvim/lua'
+let g:netrw_dirhist_7='/home/permaban/.config/nvim'
+let g:netrw_dirhist_6='/home/permaban/.config/nvim/lua'
+let g:netrw_dirhist_5='/home/permaban/.config/nvim/lua/nigger'
+let g:netrw_dirhist_4='/home/permaban/.config/nvim'
